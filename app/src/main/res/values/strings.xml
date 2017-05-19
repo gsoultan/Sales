@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SalesApp</string>
+    <string name="customer.firstName">First Name</string>
+    <string name="title_activity_customer_detail">CustomerDetailActivity</string>
+</resources>
